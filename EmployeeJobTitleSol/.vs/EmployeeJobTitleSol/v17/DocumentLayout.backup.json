@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21F7DAA9-F0E1-4F76-AB62-BF9D2556DAFE}|EmployeeJobTitleWin\\EmployeeJobTitleWin.csproj|c:\\users\\21521\\source\\repos\\employeejobtitlesol\\employeejobtitlewin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F7DAA9-F0E1-4F76-AB62-BF9D2556DAFE}|EmployeeJobTitleWin\\EmployeeJobTitleWin.csproj|solutionrelative:employeejobtitlewin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F7DAA9-F0E1-4F76-AB62-BF9D2556DAFE}|EmployeeJobTitleWin\\EmployeeJobTitleWin.csproj|c:\\users\\21521\\source\\repos\\employeejobtitlesol\\employeejobtitlewin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F7DAA9-F0E1-4F76-AB62-BF9D2556DAFE}|EmployeeJobTitleWin\\EmployeeJobTitleWin.csproj|solutionrelative:employeejobtitlewin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F7DAA9-F0E1-4F76-AB62-BF9D2556DAFE}|EmployeeJobTitleWin\\EmployeeJobTitleWin.csproj|c:\\users\\21521\\source\\repos\\employeejobtitlesol\\employeejobtitlewin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21F7DAA9-F0E1-4F76-AB62-BF9D2556DAFE}|EmployeeJobTitleWin\\EmployeeJobTitleWin.csproj|solutionrelative:employeejobtitlewin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F31980-2469-45F3-8F01-19BBAEF6989C}|EmployeeJobTitleLib\\EmployeeJobTitleLib.csproj|c:\\users\\21521\\source\\repos\\employeejobtitlesol\\employeejobtitlelib\\repository\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F31980-2469-45F3-8F01-19BBAEF6989C}|EmployeeJobTitleLib\\EmployeeJobTitleLib.csproj|solutionrelative:employeejobtitlelib\\repository\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F31980-2469-45F3-8F01-19BBAEF6989C}|EmployeeJobTitleLib\\EmployeeJobTitleLib.csproj|c:\\users\\21521\\source\\repos\\employeejobtitlesol\\employeejobtitlelib\\repository\\iauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F31980-2469-45F3-8F01-19BBAEF6989C}|EmployeeJobTitleLib\\EmployeeJobTitleLib.csproj|solutionrelative:employeejobtitlelib\\repository\\iauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F31980-2469-45F3-8F01-19BBAEF6989C}|EmployeeJobTitleLib\\EmployeeJobTitleLib.csproj|c:\\users\\21521\\source\\repos\\employeejobtitlesol\\employeejobtitlelib\\dataaccess\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F31980-2469-45F3-8F01-19BBAEF6989C}|EmployeeJobTitleLib\\EmployeeJobTitleLib.csproj|solutionrelative:employeejobtitlelib\\dataaccess\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F31980-2469-45F3-8F01-19BBAEF6989C}|EmployeeJobTitleLib\\EmployeeJobTitleLib.csproj|c:\\users\\21521\\source\\repos\\employeejobtitlesol\\employeejobtitlelib\\dataaccess\\employeejobtitlecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F31980-2469-45F3-8F01-19BBAEF6989C}|EmployeeJobTitleLib\\EmployeeJobTitleLib.csproj|solutionrelative:employeejobtitlelib\\dataaccess\\employeejobtitlecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F31980-2469-45F3-8F01-19BBAEF6989C}|EmployeeJobTitleLib\\EmployeeJobTitleLib.csproj|c:\\users\\21521\\source\\repos\\employeejobtitlesol\\employeejobtitlelib\\dataaccess\\dbaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F31980-2469-45F3-8F01-19BBAEF6989C}|EmployeeJobTitleLib\\EmployeeJobTitleLib.csproj|solutionrelative:employeejobtitlelib\\dataaccess\\dbaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F31980-2469-45F3-8F01-19BBAEF6989C}|EmployeeJobTitleLib\\EmployeeJobTitleLib.csproj|c:\\users\\21521\\source\\repos\\employeejobtitlesol\\employeejobtitlelib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F31980-2469-45F3-8F01-19BBAEF6989C}|EmployeeJobTitleLib\\EmployeeJobTitleLib.csproj|solutionrelative:employeejobtitlelib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleWin\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeJobTitleWin\\Program.cs",
+              "ToolTip": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleWin\\Program.cs*",
+              "RelativeToolTip": "EmployeeJobTitleWin\\Program.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:37:28.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleWin\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeJobTitleWin\\appsettings.json",
+              "ToolTip": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleWin\\appsettings.json",
+              "RelativeToolTip": "EmployeeJobTitleWin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T05:33:47.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleLib\\Repository\\AuthRepo.cs",
+              "RelativeDocumentMoniker": "EmployeeJobTitleLib\\Repository\\AuthRepo.cs",
+              "ToolTip": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleLib\\Repository\\AuthRepo.cs",
+              "RelativeToolTip": "EmployeeJobTitleLib\\Repository\\AuthRepo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAsAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:29:29.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleWin\\Form1.cs",
+              "RelativeDocumentMoniker": "EmployeeJobTitleWin\\Form1.cs",
+              "ToolTip": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleWin\\Form1.cs [Design]",
+              "RelativeToolTip": "EmployeeJobTitleWin\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:56:23.588Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "iAuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleLib\\Repository\\iAuthRepo.cs",
+              "RelativeDocumentMoniker": "EmployeeJobTitleLib\\Repository\\iAuthRepo.cs",
+              "ToolTip": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleLib\\Repository\\iAuthRepo.cs",
+              "RelativeToolTip": "EmployeeJobTitleLib\\Repository\\iAuthRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:29:40.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeJobTitleContext.cs",
+              "DocumentMoniker": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleLib\\DataAccess\\EmployeeJobTitleContext.cs",
+              "RelativeDocumentMoniker": "EmployeeJobTitleLib\\DataAccess\\EmployeeJobTitleContext.cs",
+              "ToolTip": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleLib\\DataAccess\\EmployeeJobTitleContext.cs",
+              "RelativeToolTip": "EmployeeJobTitleLib\\DataAccess\\EmployeeJobTitleContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:25:45.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleLib\\DataAccess\\Auth.cs",
+              "RelativeDocumentMoniker": "EmployeeJobTitleLib\\DataAccess\\Auth.cs",
+              "ToolTip": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleLib\\DataAccess\\Auth.cs",
+              "RelativeToolTip": "EmployeeJobTitleLib\\DataAccess\\Auth.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:19:50.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dbaccount.cs",
+              "DocumentMoniker": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleLib\\DataAccess\\Dbaccount.cs",
+              "RelativeDocumentMoniker": "EmployeeJobTitleLib\\DataAccess\\Dbaccount.cs",
+              "ToolTip": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleLib\\DataAccess\\Dbaccount.cs",
+              "RelativeToolTip": "EmployeeJobTitleLib\\DataAccess\\Dbaccount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:17:00.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleLib\\Class1.cs",
+              "RelativeDocumentMoniker": "EmployeeJobTitleLib\\Class1.cs",
+              "ToolTip": "C:\\Users\\21521\\source\\repos\\EmployeeJobTitleSol\\EmployeeJobTitleLib\\Class1.cs",
+              "RelativeToolTip": "EmployeeJobTitleLib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:56:00.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

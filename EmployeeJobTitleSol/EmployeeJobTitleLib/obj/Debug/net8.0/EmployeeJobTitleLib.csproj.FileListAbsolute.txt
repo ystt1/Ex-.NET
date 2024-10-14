@@ -1,0 +1,14 @@
+C:\Users\21521\source\repos\EmployeeJobTitleSol\EmployeeJobTitleLib\bin\Debug\net8.0\EmployeeJobTitleLib.deps.json
+C:\Users\21521\source\repos\EmployeeJobTitleSol\EmployeeJobTitleLib\bin\Debug\net8.0\EmployeeJobTitleLib.runtimeconfig.json
+C:\Users\21521\source\repos\EmployeeJobTitleSol\EmployeeJobTitleLib\bin\Debug\net8.0\EmployeeJobTitleLib.dll
+C:\Users\21521\source\repos\EmployeeJobTitleSol\EmployeeJobTitleLib\bin\Debug\net8.0\EmployeeJobTitleLib.pdb
+C:\Users\21521\source\repos\EmployeeJobTitleSol\EmployeeJobTitleLib\obj\Debug\net8.0\EmployeeJobTitleLib.csproj.AssemblyReference.cache
+C:\Users\21521\source\repos\EmployeeJobTitleSol\EmployeeJobTitleLib\obj\Debug\net8.0\EmployeeJobTitleLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21521\source\repos\EmployeeJobTitleSol\EmployeeJobTitleLib\obj\Debug\net8.0\EmployeeJobTitleLib.AssemblyInfoInputs.cache
+C:\Users\21521\source\repos\EmployeeJobTitleSol\EmployeeJobTitleLib\obj\Debug\net8.0\EmployeeJobTitleLib.AssemblyInfo.cs
+C:\Users\21521\source\repos\EmployeeJobTitleSol\EmployeeJobTitleLib\obj\Debug\net8.0\EmployeeJobTitleLib.csproj.CoreCompileInputs.cache
+C:\Users\21521\source\repos\EmployeeJobTitleSol\EmployeeJobTitleLib\obj\Debug\net8.0\EmployeeJobTitleLib.dll
+C:\Users\21521\source\repos\EmployeeJobTitleSol\EmployeeJobTitleLib\obj\Debug\net8.0\refint\EmployeeJobTitleLib.dll
+C:\Users\21521\source\repos\EmployeeJobTitleSol\EmployeeJobTitleLib\obj\Debug\net8.0\EmployeeJobTitleLib.pdb
+C:\Users\21521\source\repos\EmployeeJobTitleSol\EmployeeJobTitleLib\obj\Debug\net8.0\EmployeeJobTitleLib.genruntimeconfig.cache
+C:\Users\21521\source\repos\EmployeeJobTitleSol\EmployeeJobTitleLib\obj\Debug\net8.0\ref\EmployeeJobTitleLib.dll
